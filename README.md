@@ -1,3 +1,5 @@
+# Articulate
+
 A Minecraft plugin to manage your player.
 
 You can modify flight, various speeds and attributes, as well as utility modules through a simple and easy-to-use command syntax.
@@ -11,3 +13,5 @@ Modules:
 * Instakill
 
 LICENSE: MIT License
+
+SUPPORTED VERSIONS: Spigot & Paper 1.21.5-1.21.10
