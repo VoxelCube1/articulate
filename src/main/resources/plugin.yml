@@ -1,0 +1,14 @@
+name: Articulate
+version: '1.0-SNAPSHOT'
+main: dev.proplayer919.articulate.Articulate
+api-version: '1.21'
+commands:
+    articulate:
+        description: Toggle and modify Articulate settings.
+        usage: /<command> <subcommand>
+        aliases: [art, artic, a, ar]
+
+permissions:
+    articulate.use:
+        description: Allows the use of all articulate modules.
+        default: op
