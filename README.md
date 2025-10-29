@@ -2,16 +2,30 @@
 
 A Minecraft plugin to manage your player.
 
-You can modify flight, various speeds and attributes, as well as utility modules through a simple and easy-to-use command syntax.
 
-Modules:
+<details>
+<summary>Supported Versions</summary>
+
+**Spigot & Paper Supported**
+
+- 1.21.5
+- 1.21.6
+- 1.21.7
+- 1.21.8
+- 1.21.9
+- 1.21.10
+
+</details>
+
+## About
+
+Articulate is made to simplify making changes to your player. Whether its attributes, god mode, or anything else, Articulate makes it easy!
+
+## Features
+
 * Flight
 * Fly speed
 * Walk speed
 * Max health
 * God mode
 * Instakill
-
-LICENSE: MIT License
-
-SUPPORTED VERSIONS: Spigot & Paper 1.21.5-1.21.10
