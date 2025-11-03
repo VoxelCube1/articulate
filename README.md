@@ -1,4 +1,7 @@
-# Articulate
+<div align="center">
+  <img src="logo.png" width="300" height="300">
+  <h1>Articulate</h1>
+</div>
 
 A Minecraft plugin to manage your player.
 
